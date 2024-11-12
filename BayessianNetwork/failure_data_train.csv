@@ -1,0 +1,96 @@
+ANNUAL_SALES_binned,LGD_EFFECTIVE_binned,BALANCE_binned,RETURN_ON_ASSETS_binned,DEBT_SRV_CVR_RATIO_binned,CASH_INT_CVR_RATIO_binned,DEBT_DEBT_EQ_RATIO_binned,CASH_FLOW_OP_LIAB_binned,EBITDA_VOLATILITY_binned,NET_WORTH_CPI_binned,MARKET_POSITION_binned,IN_DEFAULT,LONG_RUN_AVERAGE_PD_binned
+Medium Sales,Low Loss,Moderate Balance,High Profitability,High Coverage,Moderate Interest Coverage,High Leverage,High Cash Flow,High Volatility,Low Net Worth,Very Strong,False,High Probability
+Low Sales,Low Loss,High Balance,Low Profitability,Moderate Coverage,Low Interest Coverage,Moderate Leverage,Moderate Cash Flow,High Volatility,Low Net Worth,Moderate,False,High Probability
+Low Sales,Low Loss,Moderate Balance,High Profitability,Moderate Coverage,Moderate Interest Coverage,Moderate Leverage,Low Cash Flow,High Volatility,Moderate Net Worth,Moderate,False,Moderate Probability
+High Sales,Low Loss,Low Balance,High Profitability,High Coverage,High Interest Coverage,Low Leverage,High Cash Flow,Low Volatility,High Net Worth,Strong,False,Low Probability
+High Sales,Low Loss,Low Balance,Low Profitability,Low Coverage,Moderate Interest Coverage,Low Leverage,High Cash Flow,Low Volatility,High Net Worth,Strong,False,Low Probability
+High Sales,Low Loss,Low Balance,Moderate Profitability,Moderate Coverage,High Interest Coverage,Low Leverage,High Cash Flow,Low Volatility,High Net Worth,Very Strong,False,Low Probability
+Medium Sales,Low Loss,High Balance,Moderate Profitability,High Coverage,Moderate Interest Coverage,High Leverage,High Cash Flow,Moderate Volatility,Moderate Net Worth,Weak,False,Moderate Probability
+Medium Sales,Low Loss,Moderate Balance,Moderate Profitability,Moderate Coverage,Moderate Interest Coverage,High Leverage,Low Cash Flow,Moderate Volatility,Moderate Net Worth,Very Strong,False,Moderate Probability
+Medium Sales,Low Loss,Moderate Balance,Low Profitability,Low Coverage,High Interest Coverage,Low Leverage,High Cash Flow,Moderate Volatility,Moderate Net Worth,Very Strong,False,Low Probability
+Medium Sales,Low Loss,High Balance,High Profitability,Low Coverage,Moderate Interest Coverage,Low Leverage,High Cash Flow,Low Volatility,High Net Worth,Very Strong,False,Low Probability
+Low Sales,Low Loss,High Balance,High Profitability,Moderate Coverage,Low Interest Coverage,Low Leverage,Low Cash Flow,High Volatility,Low Net Worth,Moderate,False,High Probability
+Medium Sales,Low Loss,High Balance,Moderate Profitability,High Coverage,High Interest Coverage,High Leverage,Low Cash Flow,High Volatility,Low Net Worth,Moderate,False,High Probability
+Medium Sales,Low Loss,High Balance,Moderate Profitability,Moderate Coverage,Low Interest Coverage,Moderate Leverage,Low Cash Flow,Low Volatility,Moderate Net Worth,Moderate,False,High Probability
+High Sales,Low Loss,Moderate Balance,High Profitability,Low Coverage,Moderate Interest Coverage,Moderate Leverage,High Cash Flow,Moderate Volatility,High Net Worth,Very Strong,False,Low Probability
+Low Sales,Low Loss,Moderate Balance,Low Profitability,Low Coverage,Low Interest Coverage,High Leverage,Low Cash Flow,Moderate Volatility,Low Net Worth,Very Strong,False,High Probability
+Medium Sales,Low Loss,Moderate Balance,Moderate Profitability,Moderate Coverage,High Interest Coverage,Moderate Leverage,High Cash Flow,High Volatility,Moderate Net Worth,Strong,False,Low Probability
+Low Sales,Low Loss,Low Balance,High Profitability,High Coverage,Moderate Interest Coverage,High Leverage,Low Cash Flow,Moderate Volatility,Low Net Worth,Strong,False,Moderate Probability
+Medium Sales,Low Loss,Moderate Balance,Moderate Profitability,High Coverage,Moderate Interest Coverage,High Leverage,Low Cash Flow,Moderate Volatility,Moderate Net Worth,Strong,False,High Probability
+Low Sales,Low Loss,High Balance,High Profitability,High Coverage,High Interest Coverage,Low Leverage,Low Cash Flow,Low Volatility,Low Net Worth,Very Strong,False,Moderate Probability
+High Sales,Low Loss,Low Balance,Low Profitability,High Coverage,Low Interest Coverage,Moderate Leverage,Low Cash Flow,Moderate Volatility,High Net Worth,Strong,False,Moderate Probability
+Medium Sales,Low Loss,Low Balance,High Profitability,Low Coverage,High Interest Coverage,Low Leverage,High Cash Flow,Low Volatility,Moderate Net Worth,Very Strong,False,Low Probability
+Medium Sales,Low Loss,High Balance,High Profitability,Low Coverage,Moderate Interest Coverage,High Leverage,Low Cash Flow,Low Volatility,Low Net Worth,Moderate,False,Moderate Probability
+High Sales,Low Loss,Low Balance,High Profitability,High Coverage,High Interest Coverage,Low Leverage,High Cash Flow,Low Volatility,High Net Worth,Strong,False,Low Probability
+High Sales,Low Loss,Moderate Balance,Moderate Profitability,Moderate Coverage,High Interest Coverage,Low Leverage,High Cash Flow,Low Volatility,High Net Worth,Very Strong,False,Low Probability
+High Sales,Low Loss,Moderate Balance,Low Profitability,High Coverage,Moderate Interest Coverage,Moderate Leverage,High Cash Flow,Low Volatility,High Net Worth,Very Strong,False,Low Probability
+Low Sales,Low Loss,Moderate Balance,Low Profitability,High Coverage,High Interest Coverage,Moderate Leverage,Low Cash Flow,Low Volatility,Low Net Worth,Moderate,False,Moderate Probability
+Low Sales,Low Loss,High Balance,Moderate Profitability,Moderate Coverage,Low Interest Coverage,High Leverage,Low Cash Flow,High Volatility,Low Net Worth,Moderate,False,High Probability
+Medium Sales,Low Loss,High Balance,Low Profitability,Moderate Coverage,Low Interest Coverage,High Leverage,Low Cash Flow,High Volatility,Low Net Worth,Moderate,False,High Probability
+High Sales,Low Loss,Moderate Balance,Low Profitability,High Coverage,Low Interest Coverage,High Leverage,Low Cash Flow,Moderate Volatility,Low Net Worth,Strong,False,High Probability
+High Sales,Low Loss,Moderate Balance,Low Profitability,High Coverage,High Interest Coverage,Low Leverage,Moderate Cash Flow,Moderate Volatility,High Net Worth,Very Strong,False,Low Probability
+Medium Sales,Low Loss,Moderate Balance,Moderate Profitability,Moderate Coverage,Moderate Interest Coverage,Moderate Leverage,Low Cash Flow,Moderate Volatility,Moderate Net Worth,Strong,False,Moderate Probability
+Low Sales,Low Loss,High Balance,High Profitability,High Coverage,Moderate Interest Coverage,High Leverage,Low Cash Flow,Moderate Volatility,Moderate Net Worth,Very Strong,False,Moderate Probability
+Medium Sales,Low Loss,Moderate Balance,Moderate Profitability,Moderate Coverage,High Interest Coverage,Moderate Leverage,High Cash Flow,High Volatility,Moderate Net Worth,Strong,False,Low Probability
+High Sales,Low Loss,Moderate Balance,High Profitability,High Coverage,Moderate Interest Coverage,Moderate Leverage,High Cash Flow,Low Volatility,High Net Worth,Very Strong,False,Low Probability
+High Sales,Low Loss,Low Balance,High Profitability,High Coverage,High Interest Coverage,Moderate Leverage,High Cash Flow,Low Volatility,High Net Worth,Moderate,False,Low Probability
+Low Sales,Low Loss,Moderate Balance,Moderate Profitability,High Coverage,Low Interest Coverage,Moderate Leverage,Low Cash Flow,Moderate Volatility,Moderate Net Worth,Moderate,False,Moderate Probability
+Medium Sales,Low Loss,Low Balance,Low Profitability,Low Coverage,Low Interest Coverage,High Leverage,Moderate Cash Flow,High Volatility,Low Net Worth,Strong,False,High Probability
+Low Sales,Low Loss,High Balance,Low Profitability,High Coverage,High Interest Coverage,Moderate Leverage,Low Cash Flow,Low Volatility,Low Net Worth,Moderate,False,Moderate Probability
+Low Sales,Low Loss,High Balance,High Profitability,Moderate Coverage,Low Interest Coverage,High Leverage,Low Cash Flow,Low Volatility,Low Net Worth,Moderate,False,High Probability
+Medium Sales,Low Loss,High Balance,Moderate Profitability,Low Coverage,Low Interest Coverage,High Leverage,Low Cash Flow,Moderate Volatility,Moderate Net Worth,Very Strong,False,Moderate Probability
+Medium Sales,Low Loss,Moderate Balance,Low Profitability,Low Coverage,Low Interest Coverage,Low Leverage,Low Cash Flow,High Volatility,Moderate Net Worth,Very Strong,False,Moderate Probability
+Low Sales,Low Loss,High Balance,Low Profitability,Moderate Coverage,Low Interest Coverage,High Leverage,Low Cash Flow,High Volatility,Low Net Worth,Moderate,False,High Probability
+Medium Sales,Low Loss,Moderate Balance,High Profitability,High Coverage,Moderate Interest Coverage,High Leverage,Low Cash Flow,Moderate Volatility,Low Net Worth,Moderate,False,High Probability
+Medium Sales,Low Loss,High Balance,Low Profitability,Low Coverage,Low Interest Coverage,High Leverage,Low Cash Flow,Moderate Volatility,Low Net Worth,Moderate,False,High Probability
+Low Sales,Low Loss,High Balance,Moderate Profitability,High Coverage,Low Interest Coverage,Moderate Leverage,High Cash Flow,Low Volatility,Moderate Net Worth,Moderate,False,Moderate Probability
+High Sales,Low Loss,Low Balance,Moderate Profitability,Low Coverage,High Interest Coverage,Low Leverage,Moderate Cash Flow,Moderate Volatility,High Net Worth,Strong,False,Low Probability
+High Sales,Low Loss,Moderate Balance,High Profitability,High Coverage,Moderate Interest Coverage,Moderate Leverage,High Cash Flow,Low Volatility,High Net Worth,Very Strong,False,Low Probability
+Low Sales,Low Loss,Low Balance,High Profitability,High Coverage,High Interest Coverage,High Leverage,High Cash Flow,Moderate Volatility,Low Net Worth,Very Strong,False,Moderate Probability
+High Sales,Low Loss,Moderate Balance,Low Profitability,High Coverage,High Interest Coverage,Moderate Leverage,Moderate Cash Flow,High Volatility,High Net Worth,Very Strong,False,Moderate Probability
+Low Sales,Low Loss,High Balance,Low Profitability,Moderate Coverage,Low Interest Coverage,High Leverage,Low Cash Flow,High Volatility,Low Net Worth,Very Strong,False,High Probability
+Medium Sales,Low Loss,High Balance,High Profitability,Low Coverage,Moderate Interest Coverage,High Leverage,Low Cash Flow,Moderate Volatility,Low Net Worth,Strong,False,Moderate Probability
+Medium Sales,Low Loss,Moderate Balance,Moderate Profitability,Moderate Coverage,Low Interest Coverage,Moderate Leverage,Low Cash Flow,Low Volatility,Moderate Net Worth,Moderate,False,High Probability
+Low Sales,Low Loss,Moderate Balance,Moderate Profitability,High Coverage,Moderate Interest Coverage,High Leverage,High Cash Flow,Moderate Volatility,Moderate Net Worth,Strong,False,Moderate Probability
+Low Sales,Low Loss,Low Balance,Low Profitability,Moderate Coverage,Low Interest Coverage,High Leverage,Low Cash Flow,High Volatility,Low Net Worth,Very Strong,False,High Probability
+Medium Sales,Low Loss,Moderate Balance,Moderate Profitability,Moderate Coverage,Moderate Interest Coverage,Moderate Leverage,High Cash Flow,Low Volatility,High Net Worth,Moderate,False,Low Probability
+Low Sales,Low Loss,Moderate Balance,Low Profitability,Low Coverage,Low Interest Coverage,High Leverage,Low Cash Flow,Moderate Volatility,Low Net Worth,Very Strong,False,High Probability
+Medium Sales,Low Loss,Moderate Balance,Low Profitability,Low Coverage,Low Interest Coverage,Moderate Leverage,Moderate Cash Flow,High Volatility,Moderate Net Worth,Strong,False,High Probability
+Low Sales,Low Loss,Low Balance,Low Profitability,Moderate Coverage,Moderate Interest Coverage,Low Leverage,High Cash Flow,High Volatility,Moderate Net Worth,Strong,False,High Probability
+Low Sales,Low Loss,Low Balance,High Profitability,Low Coverage,High Interest Coverage,Low Leverage,Low Cash Flow,Moderate Volatility,Moderate Net Worth,Moderate,False,Moderate Probability
+Medium Sales,Low Loss,Moderate Balance,Moderate Profitability,Moderate Coverage,Low Interest Coverage,Moderate Leverage,Low Cash Flow,Low Volatility,Moderate Net Worth,Moderate,False,High Probability
+Medium Sales,Low Loss,Low Balance,High Profitability,Moderate Coverage,Moderate Interest Coverage,Moderate Leverage,High Cash Flow,Low Volatility,Moderate Net Worth,Moderate,False,Moderate Probability
+Low Sales,Low Loss,Moderate Balance,Low Profitability,High Coverage,High Interest Coverage,Moderate Leverage,Low Cash Flow,Low Volatility,Low Net Worth,Moderate,False,Moderate Probability
+High Sales,Low Loss,Low Balance,Moderate Profitability,Low Coverage,High Interest Coverage,Low Leverage,Moderate Cash Flow,Moderate Volatility,High Net Worth,Strong,False,Low Probability
+Low Sales,Low Loss,High Balance,High Profitability,Low Coverage,High Interest Coverage,Low Leverage,Low Cash Flow,Moderate Volatility,Moderate Net Worth,Moderate,False,Moderate Probability
+Medium Sales,Low Loss,Low Balance,High Profitability,High Coverage,High Interest Coverage,Low Leverage,High Cash Flow,Low Volatility,Moderate Net Worth,Very Strong,False,Low Probability
+Low Sales,Low Loss,High Balance,Moderate Profitability,High Coverage,Moderate Interest Coverage,Moderate Leverage,Low Cash Flow,High Volatility,Moderate Net Worth,Very Strong,False,Moderate Probability
+Medium Sales,Low Loss,High Balance,Moderate Profitability,Low Coverage,Low Interest Coverage,Low Leverage,Low Cash Flow,Moderate Volatility,Low Net Worth,Strong,False,High Probability
+Low Sales,Low Loss,High Balance,Moderate Profitability,Moderate Coverage,Low Interest Coverage,High Leverage,Low Cash Flow,Moderate Volatility,Low Net Worth,Very Strong,False,High Probability
+Medium Sales,Low Loss,Low Balance,Low Profitability,Low Coverage,Low Interest Coverage,Low Leverage,Low Cash Flow,High Volatility,Moderate Net Worth,Very Strong,False,Moderate Probability
+High Sales,Low Loss,Low Balance,Low Profitability,High Coverage,Low Interest Coverage,High Leverage,Low Cash Flow,Moderate Volatility,Low Net Worth,Strong,False,High Probability
+Low Sales,Low Loss,High Balance,High Profitability,Moderate Coverage,Moderate Interest Coverage,High Leverage,Low Cash Flow,Moderate Volatility,Low Net Worth,Very Strong,False,High Probability
+Medium Sales,Low Loss,Low Balance,Low Profitability,Low Coverage,High Interest Coverage,Low Leverage,High Cash Flow,Moderate Volatility,Moderate Net Worth,Very Strong,False,Low Probability
+High Sales,Low Loss,Moderate Balance,High Profitability,Low Coverage,High Interest Coverage,Low Leverage,Moderate Cash Flow,Low Volatility,High Net Worth,Very Strong,False,Low Probability
+High Sales,Low Loss,Low Balance,High Profitability,High Coverage,High Interest Coverage,Moderate Leverage,High Cash Flow,Low Volatility,High Net Worth,Moderate,False,Low Probability
+High Sales,Low Loss,Moderate Balance,Moderate Profitability,Low Coverage,Moderate Interest Coverage,Low Leverage,High Cash Flow,Moderate Volatility,High Net Worth,Strong,False,Low Probability
+Medium Sales,Low Loss,Low Balance,High Profitability,Low Coverage,High Interest Coverage,Low Leverage,High Cash Flow,Low Volatility,Moderate Net Worth,Very Strong,False,Low Probability
+High Sales,Low Loss,High Balance,High Profitability,High Coverage,High Interest Coverage,Low Leverage,High Cash Flow,Low Volatility,High Net Worth,Strong,False,Low Probability
+Medium Sales,Low Loss,Low Balance,High Profitability,Low Coverage,High Interest Coverage,Low Leverage,High Cash Flow,High Volatility,High Net Worth,Moderate,False,Low Probability
+High Sales,Low Loss,Low Balance,High Profitability,High Coverage,High Interest Coverage,Low Leverage,High Cash Flow,Low Volatility,High Net Worth,Strong,False,Low Probability
+High Sales,Low Loss,Low Balance,High Profitability,Low Coverage,High Interest Coverage,Low Leverage,Moderate Cash Flow,Low Volatility,High Net Worth,Very Strong,False,Low Probability
+Low Sales,Low Loss,Low Balance,Moderate Profitability,High Coverage,High Interest Coverage,Low Leverage,High Cash Flow,Moderate Volatility,Moderate Net Worth,Strong,False,Low Probability
+High Sales,Low Loss,Low Balance,Low Profitability,Low Coverage,Low Interest Coverage,Moderate Leverage,Low Cash Flow,Moderate Volatility,High Net Worth,Strong,False,Moderate Probability
+Low Sales,Low Loss,Low Balance,Low Profitability,High Coverage,High Interest Coverage,Moderate Leverage,Low Cash Flow,Low Volatility,Low Net Worth,Moderate,False,Moderate Probability
+High Sales,Low Loss,Low Balance,Moderate Profitability,Moderate Coverage,High Interest Coverage,Low Leverage,High Cash Flow,Low Volatility,High Net Worth,Very Strong,False,Low Probability
+Low Sales,Low Loss,Low Balance,Low Profitability,Moderate Coverage,Low Interest Coverage,High Leverage,Low Cash Flow,High Volatility,Low Net Worth,Strong,False,High Probability
+High Sales,Low Loss,Low Balance,Moderate Profitability,Moderate Coverage,High Interest Coverage,Low Leverage,High Cash Flow,Low Volatility,High Net Worth,Very Strong,False,Low Probability
+Medium Sales,Low Loss,Low Balance,Low Profitability,Moderate Coverage,Low Interest Coverage,Moderate Leverage,Moderate Cash Flow,Low Volatility,Moderate Net Worth,Strong,False,High Probability
+High Sales,Low Loss,High Balance,Moderate Profitability,High Coverage,Low Interest Coverage,Moderate Leverage,Low Cash Flow,High Volatility,High Net Worth,Moderate,False,Moderate Probability
+Low Sales,Low Loss,High Balance,High Profitability,Moderate Coverage,Moderate Interest Coverage,High Leverage,Low Cash Flow,Moderate Volatility,Low Net Worth,Very Strong,False,High Probability
+Medium Sales,Low Loss,Moderate Balance,Moderate Profitability,Moderate Coverage,Moderate Interest Coverage,High Leverage,Low Cash Flow,High Volatility,Low Net Worth,Strong,False,High Probability
+Low Sales,Low Loss,Low Balance,High Profitability,High Coverage,Moderate Interest Coverage,High Leverage,Low Cash Flow,Moderate Volatility,Moderate Net Worth,Very Strong,False,Moderate Probability
+High Sales,Low Loss,Moderate Balance,High Profitability,Low Coverage,High Interest Coverage,Low Leverage,Moderate Cash Flow,Low Volatility,High Net Worth,Very Strong,False,Low Probability
+High Sales,Low Loss,Moderate Balance,Moderate Profitability,Low Coverage,Moderate Interest Coverage,Low Leverage,High Cash Flow,High Volatility,High Net Worth,Moderate,False,Low Probability
+Medium Sales,Low Loss,Moderate Balance,Moderate Profitability,Low Coverage,Moderate Interest Coverage,Moderate Leverage,Moderate Cash Flow,Moderate Volatility,Moderate Net Worth,Very Strong,False,Low Probability
+High Sales,Low Loss,High Balance,Moderate Profitability,High Coverage,Low Interest Coverage,Moderate Leverage,Moderate Cash Flow,Low Volatility,High Net Worth,Very Strong,False,Moderate Probability
